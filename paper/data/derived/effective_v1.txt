@@ -1,0 +1,13 @@
+participation_ratio	1.9111	of	6
+MMLU	
+TruthfulQA	0.5158
+HellaSwag	0.3851
+GSM8K	0.3497
+Winogrande	0.1897
+ARC	0.1605
+retained_at_thr_0.3	4
+retained_at_thr_0.2	4
+retained_at_thr_0.1	6
+eig_cumulative	0.7091	0.8024	0.8851	0.9420	0.9748	1.0000
+cover_tau0.70	4	ARC,MMLU,TruthfulQA,GSM8K
+cover_tau0.50	1	ARC

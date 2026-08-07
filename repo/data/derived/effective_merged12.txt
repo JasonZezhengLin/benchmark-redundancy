@@ -1,0 +1,19 @@
+participation_ratio	2.8087	of	12
+IFEval	
+MuSR	0.7404
+GPQA	0.6161
+HellaSwag	0.5565
+MATH	0.4571
+TruthfulQA	0.3695
+BBH	0.3682
+GSM8K	0.3274
+MMLU	0.2947
+Winogrande	0.1929
+MMLU-Pro	0.1665
+ARC	0.166
+retained_at_thr_0.3	8
+retained_at_thr_0.2	9
+retained_at_thr_0.1	12
+eig_cumulative	0.5772	0.6715	0.7373	0.7966	0.8417	0.8780	0.9086	0.9340	0.9578	0.9745	0.9875	1.0000
+cover_tau0.70	7	MMLU-Pro,ARC,TruthfulQA,GSM8K,IFEval,GPQA,MuSR
+cover_tau0.50	4	ARC,MMLU,IFEval,MuSR

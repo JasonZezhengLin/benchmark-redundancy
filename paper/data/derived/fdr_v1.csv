@@ -1,0 +1,7 @@
+benchmark,n_items,top1,topk_spread,FDR_median,FDR_min,sep_at_2sigma,adjacent_pairs
+ARC,1172,0.8746,0.0879,0.103,0.0,1,9
+HellaSwag,10042,0.9275,0.0141,0.101,0.0,1,9
+MMLU,14042,0.8935,0.0485,0.919,0.059,1,9
+TruthfulQA,817,0.8229,0.0186,0.02,0.0,0,9
+Winogrande,1267,0.9148,0.0331,0.062,0.0,0,9
+GSM8K,1319,0.8825,0.0296,0.166,0.0,0,9

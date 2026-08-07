@@ -1,0 +1,7 @@
+bench_a,bench_b,DD,DD_lo,DD_hi
+ARC,HellaSwag,0.166,0.147,0.187
+MMLU,MMLU-Pro,0.167,0.136,0.2
+HellaSwag,Winogrande,0.193,0.169,0.219
+GSM8K,MuSR,0.658,0.601,0.716
+MATH,MuSR,0.661,0.603,0.721
+IFEval,MuSR,0.74,0.684,0.794

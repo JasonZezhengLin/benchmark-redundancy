@@ -1,0 +1,16 @@
+bench_a,bench_b,tau_b,DD
+ARC,HellaSwag,0.84,0.16
+HellaSwag,Winogrande,0.81,0.19
+ARC,Winogrande,0.804,0.196
+ARC,MMLU,0.671,0.329
+MMLU,Winogrande,0.662,0.338
+ARC,GSM8K,0.654,0.346
+MMLU,GSM8K,0.65,0.35
+ARC,TruthfulQA,0.638,0.362
+Winogrande,GSM8K,0.618,0.382
+HellaSwag,MMLU,0.615,0.385
+HellaSwag,TruthfulQA,0.592,0.408
+HellaSwag,GSM8K,0.59,0.41
+TruthfulQA,Winogrande,0.555,0.445
+TruthfulQA,GSM8K,0.514,0.486
+MMLU,TruthfulQA,0.484,0.516
